@@ -223,4 +223,3 @@ Move getHardDifficultyMove(char board[8][8], char player) {
 
 
 #dddd
-#
